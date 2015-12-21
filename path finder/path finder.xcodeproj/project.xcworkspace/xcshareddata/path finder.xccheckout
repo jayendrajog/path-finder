@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F5D96ED-64E4-4295-B5F9-165233FD1FA1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>090F5B847A18C4F9E1D634A7BD8241EDC8B82DED</key>
+		<string>https://github.com/jayendrajog/path-finder.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>path finder/path finder.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>090F5B847A18C4F9E1D634A7BD8241EDC8B82DED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jayendrajog/path-finder.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>090F5B847A18C4F9E1D634A7BD8241EDC8B82DED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>090F5B847A18C4F9E1D634A7BD8241EDC8B82DED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>path-finder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
